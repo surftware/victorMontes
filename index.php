@@ -12,7 +12,7 @@
   include_once ("includes/nav.php");	  
  ?>
   <!-- Inicia Carrusel index-->
-  <div id="carouselndex" class="carousel slide carousel-fade ptb-50" data-ride="carousel">
+  <div id="carouselndex" class="carousel slide carousel-fade ptb-40" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#carouselndex" data-slide-to="0" class="active"></li>
       <li data-target="#carouselndex" data-slide-to="1"></li>
