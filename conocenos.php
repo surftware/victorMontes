@@ -55,7 +55,7 @@
         <div class="col-lg-4 col-md-12 ">
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab01.png"></div>
-            <div class="blog-grid-text p-2 sm-p-2">
+            <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)">Results professional report</a></h4>
               <div class="meta mb-5">
                 <ul>
@@ -73,7 +73,7 @@
         <div class="col-lg-4 col-md-12 ">
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab03.png"></div>
-            <div class="blog-grid-text p-2 sm-p-2">
+            <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)">Results professional report</a></h4>
               <div class="meta mb-5">
                 <ul>
@@ -91,7 +91,7 @@
         <div class="col-lg-4 col-md-12 ">
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab04.png"></div>
-            <div class="blog-grid-text p-2 sm-p-2">
+            <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)">Results professional report</a></h4>
               <div class="meta mb-5">
                 <ul>
