@@ -59,9 +59,9 @@
               <h4 class=""><a href="javascript:void(0)">Results professional report</a></h4>
               <div class="meta mb-5">
                 <ul>
-                  <li><a href="#"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li><a href="#"><i class="fas fa-user"></i> User</a></li>
-                  <li><a href="#"><i class="fas fa-comments"></i> 38</a></li>
+                  <li><a  href="#" class="linksCards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                  <li><a  href="#" class="linksCards"><i class="fas fa-user"></i> User</a></li>
+                  <li><a  href="#" class="linksCards"><i class="fas fa-comments"></i> 38</a></li>
                 </ul>
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
@@ -77,9 +77,9 @@
               <h4 class=""><a href="javascript:void(0)">Results professional report</a></h4>
               <div class="meta mb-5">
                 <ul>
-                  <li><a href="#"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li><a href="#"><i class="fas fa-user"></i> User</a></li>
-                  <li><a href="#"><i class="fas fa-comments"></i> 38</a></li>
+                  <li><a  href="#" class="linksCards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                  <li><a  href="#" class="linksCards"><i class="fas fa-user"></i> User</a></li>
+                  <li><a  href="#" class="linksCards"><i class="fas fa-comments"></i> 38</a></li>
                 </ul>
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
@@ -95,9 +95,9 @@
               <h4 class=""><a href="javascript:void(0)">Results professional report</a></h4>
               <div class="meta mb-5">
                 <ul>
-                  <li><a href="#"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li><a href="#"><i class="fas fa-user"></i> User</a></li>
-                  <li><a href="#"><i class="fas fa-comments"></i> 38</a></li>
+                  <li><a  href="#" class="linksCards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                  <li><a  href="#" class="linksCards"><i class="fas fa-user"></i> User</a></li>
+                  <li><a  href="#" class="linksCards"><i class="fas fa-comments"></i> 38</a></li>
                 </ul>
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
