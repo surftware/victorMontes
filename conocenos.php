@@ -6,6 +6,9 @@
   include_once ("includes/head.php"); 	  
  ?>
 
+
+
+
 <body>
   <?php
   /*define('BASE_PATH', '/var/www/vmyasc.com/');*/
