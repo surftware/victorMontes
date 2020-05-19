@@ -52,14 +52,14 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-4 col-md-12 ">
+        <div class="col-lg-4 col-md-12 padding1">
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab01.png"></div>
             <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)">Results professional report</a></h4>
               <div class="meta mb-5">
                 <ul>
-                  <li><a href="#"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                <li><a href="#"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
                   <li><a href="#"><i class="fas fa-user"></i> User</a></li>
                   <li><a href="#"><i class="fas fa-comments"></i> 38</a></li>
                 </ul>
@@ -70,7 +70,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-12 ">
+        <div class="col-lg-4 col-md-12 padding1">
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab03.png"></div>
             <div class="blog-grid-text p-2 ">
@@ -88,7 +88,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-12 ">
+        <div class="col-lg-4 col-md-12 padding1">
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab04.png"></div>
             <div class="blog-grid-text p-2 ">
