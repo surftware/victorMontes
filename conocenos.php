@@ -56,17 +56,19 @@
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab01.png"></div>
             <div class="blog-grid-text p-2 ">
-              <h4 class=""><a href="javascript:void(0)">Results professional report</a></h4>
+              <h4 class=""><a href="javascript:void(0)" class="texto_cards"> Results professional report</a></h4>
               <div class="meta mb-5">
                 <ul>
-                  <li><a href="#"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li><a href="#"><i class="fas fa-user"></i> User</a></li>
-                  <li><a href="#"><i class="fas fa-comments"></i> 38</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
                 </ul>
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
-              <a href="javascript:void(0)" class="">Saber más.</a>
+                <input class="btn btn-primary" type="submit" value="Submit">
+
+              <!--<a href="javascript:void(0)" class="">Saber más.</a>-->
             </div>
           </div>
         </div>
@@ -74,17 +76,19 @@
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab03.png"></div>
             <div class="blog-grid-text p-2 ">
-              <h4 class=""><a href="javascript:void(0)">Results professional report</a></h4>
+              <h4 class=""><a href="javascript:void(0)" class="texto_cards">Results professional report</a></h4>
               <div class="meta mb-5">
                 <ul>
-                  <li><a href="#"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li><a href="#"><i class="fas fa-user"></i> User</a></li>
-                  <li><a href="#"><i class="fas fa-comments"></i> 38</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
                 </ul>
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
-              <a href="javascript:void(0)" class="">Saber más.</a>
+                <input class="btn btn-primary" type="submit" value="Submit">
+
+<!--<a href="javascript:void(0)" class="">Saber más.</a>-->
             </div>
           </div>
         </div>
@@ -92,17 +96,19 @@
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab04.png"></div>
             <div class="blog-grid-text p-2 ">
-              <h4 class=""><a href="javascript:void(0)">Results professional report</a></h4>
+              <h4 class=""><a href="javascript:void(0)" class="texto_cards">Results professional report</a></h4>
               <div class="meta mb-5">
                 <ul>
-                  <li><a href="#"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li><a href="#"><i class="fas fa-user"></i> User</a></li>
-                  <li><a href="#"><i class="fas fa-comments"></i> 38</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
                 </ul>
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
-              <a href="javascript:void(0)" class="">Saber más.</a>
+                <input class="btn btn-primary" type="submit" value="Submit">
+
+<!--<a href="javascript:void(0)" class="">Saber más.</a>-->
             </div>
           </div>
         </div>
