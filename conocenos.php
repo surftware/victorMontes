@@ -69,7 +69,7 @@
                   
                   
                   </div>
-                  <div class="col-md-4">
+                  <div class="col-md-4 enmedio">
                   <i class="fas fa-user "></i>User 
                   </div>
                   <div class="col-md-4"><i class="fas fa-comments "></i>38</div>
