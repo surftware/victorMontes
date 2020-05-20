@@ -61,19 +61,11 @@
             <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)" class="texto_cards"> Results professional report</a></h4>
               <div class="meta mb-5">
-                <div class="row">
-                  <div class="col-md-4">
-                  <a href="" >
-                  <i class="fas fa-calendar-alt "></i> <div></div>10 Aug, 2018
-                  </a>
-                  
-                  
-                  </div>
-                  <div class="col-md-4 enmedio">
-                  <i class="fas fa-user "></i>User 
-                  </div>
-                  <div class="col-md-4"><i class="fas fa-comments "></i>38</div>
-                </div>
+                <ul>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                  <li class="juan"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
+                </ul>
               </div>
 
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
@@ -89,17 +81,11 @@
             <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)" class="texto_cards">Results professional report</a></h4>
               <div class="meta mb-5">
-              <ul>
-                <li>
-                  <a href="#" class="texto_cards"><i class="fas fa-calendar-alt texto_cards"></i> <p>10 Aug, 2018</p> </a>
-                </li>
-                <li>
-                  <a href="#" class="texto_cards"><i class="fas fa-user"></i> <p class="izquierda">User</p> </a>
-                </li>
-                <li>
-                  <a href="#" class="texto_cards"><i class="fas fa-comments"></i> <p  class="izquierda">38</p> </a>
-                </li>
-              </ul>
+                <ul>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                  <li class="juan"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
+                </ul>
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
@@ -114,9 +100,11 @@
             <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)" class="texto_cards">Results professional report</a></h4>
               <div class="meta mb-5">
-                <div><a href="#" class="texto_cards"><i class="fas fa-calendar-alt texto_cards"></i> <p class="texto_lista">10 Aug, 2018</p> </a></div>
-                <div><a href="#" class="texto_cards"><i class="fas fa-user"></i> <p>User</p> </a></div>
-                <div><a href="#" class="texto_cards"><i class="fas fa-comments"></i> <p>38</p> </a></div>
+                <ul>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                  <li class="juan"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
+                </ul>
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
