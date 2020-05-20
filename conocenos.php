@@ -6,9 +6,6 @@
   include_once ("includes/head.php"); 	  
  ?>
 
-
-
-
 <body>
   <?php
   /*define('BASE_PATH', '/var/www/vmyasc.com/');*/
@@ -55,67 +52,147 @@
         </div>
       </div>
       <div class="row">
+        <div class="col-lg-4 col-md-4">
+          <div class="blog-grid anchoCard">
         <div class="col-lg-4 col-md-12 ">
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab01.png"></div>
             <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)" class="texto_cards"> Results professional report</a></h4>
               <div class="meta mb-5">
+<<<<<<< HEAD
+
+                <p class="">
+                  <a href="#" class="texto_cards mr-5"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a>
+                  <a href="#" class="texto_cards mr-5"><i class="fas fa-user"></i> User</a>
+                  <a href="#" class="texto_cards"> <i class="fas fa-comments"></i> 38</a>
+                </p>
+
+              </div>
+
+              <div class="tamTextCard">
+                <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
+                  quiavolupt assit aspernatur aut
+                  odit aut fugit, sed quia consequuntur magni.
+                </p>
+              </div>
+
+
+              <input class="btn btn-primary" type="submit" value="Submit">
+=======
                 
-                  <li class="punto "><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li class="juan"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
-                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
+                  <li class="punto1 "><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i>   10 Aug, 2018</a></li>
+                  <li class="punto2"><a href="#" class="texto_cards"><i class="fas fa-user"></i>   User</a></li>
+                  <li class="punto3"><a href="#" class="texto_cards"><i class="fas fa-comments"></i>   38</a></li>
                
               </div>
 
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
-                <input class="btn btn-primary" type="submit" value="Submit">
+                <button class="button">Click Me</button>
+>>>>>>> front
               <!--<a href="javascript:void(0)" class="">Saber más.</a>-->
             </div>
           </div>
         </div>
+<<<<<<< HEAD
+
+        <div class="col-lg-4 col-md-4">
+          <div class="blog-grid  anchoCard">
+=======
         <div class="col-lg-4 col-md-12 ">
-          <div class="blog-grid">
+          <div class="blog-grid pruebaDiv">
+>>>>>>> front
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab03.png"></div>
             <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)" class="texto_cards">Results professional report</a></h4>
               <div class="meta mb-5">
+<<<<<<< HEAD
+                <p class="">
+                  <a href="#" class="texto_cards mr-5"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a>
+                  <a href="#" class="texto_cards mr-5"><i class="fas fa-user"></i> User</a>
+                  <a href="#" class="texto_cards"> <i class="fas fa-comments"></i> 38</a>
+                </p>
+
+              </div>
+
+              <div class="tamTextCard">
+                <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur
+                  aut
+                  odit aut fugit, sed quia consequuntur magni.</p>
+
+                <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur
+                  aut
+                  odit aut fugit, sed quia consequuntur magni.</p>
+                <div>
+
+
+                  <input class="btn btn-primary" type="submit" value="Submit">
+                  <!--<a href="javascript:void(0)" class="">Saber más.</a>-->
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-4">
+          <div class="blog-grid anchoCard">
+=======
                 
-                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li class="juan"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
-                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
+                  <li class="punto1 "><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i>   10 Aug, 2018</a></li>
+                  <li class="punto2"><a href="#" class="texto_cards"><i class="fas fa-user"></i>   User</a></li>
+                  <li class="punto3"><a href="#" class="texto_cards"><i class="fas fa-comments"></i>   38</a></li>
                 
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
-                <input class="btn btn-primary" type="submit" value="Submit">
+                <button class="button">Click Me</button>
 <!--<a href="javascript:void(0)" class="">Saber más.</a>-->
             </div>
           </div>
         </div>
         <div class="col-lg-4 col-md-12 ">
-          <div class="blog-grid">
+          <div class="blog-grid pruebaDiv">
+>>>>>>> front
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab04.png"></div>
             <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)" class="texto_cards">Results professional report</a></h4>
               <div class="meta mb-5">
+<<<<<<< HEAD
+
+                <p class="">
+                  <a href="#" class="texto_cards mr-5"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a>
+                  <a href="#" class="texto_cards mr-5"><i class="fas fa-user"></i> User</a>
+                  <a href="#" class="texto_cards"> <i class="fas fa-comments"></i> 38</a>
+                </p>
+              </div>
+=======
                
-                  <li class="punto juan2"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li class="juan"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
-                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
+              <li class="punto1 "><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i>   10 Aug, 2018</a></li>
+                  <li class="punto2"><a href="#" class="texto_cards"><i class="fas fa-user"></i>   User</a></li>
+                  <li class="punto3"><a href="#" class="texto_cards"><i class="fas fa-comments"></i>   38</a></li>
                
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
-                <input class="btn btn-primary" type="submit" value="Submit">
+                <button class="button">Click Me</button>
+>>>>>>> front
 
-<!--<a href="javascript:void(0)" class="">Saber más.</a>-->
+              <div class="tamTextCard">
+                <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit
+                  aspernatur
+                  aut
+                  odit aut fugit, sed quia consequuntur magni.</p>
+              </div>
+              <input class="btn btn-primary" type="submit" value="Submit">
+
+              <!--<a href="javascript:void(0)" class="">Saber más.</a>-->
             </div>
           </div>
         </div>
-
       </div>
+    </div>
   </section>
   <!-- Termina Equipo de trabajo  -->
   <!-- Inicia Fechas Importantes -->
