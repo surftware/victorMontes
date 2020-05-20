@@ -72,6 +72,7 @@ Ultima Actualización: Noviembre 2019
   <meta name="theme-color" content="#ffffff">
 
   <!-- bootstrap 4 -->
+  
   <link rel="stylesheet" href="css/bootstrap.min.css" />
 
   <!-- font-awesome -->

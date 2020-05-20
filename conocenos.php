@@ -67,10 +67,10 @@
                   <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
                 </ul>
               </div>
+
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
                 <input class="btn btn-primary" type="submit" value="Submit">
-
               <!--<a href="javascript:void(0)" class="">Saber más.</a>-->
             </div>
           </div>
@@ -90,7 +90,6 @@
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
                 <input class="btn btn-primary" type="submit" value="Submit">
-
 <!--<a href="javascript:void(0)" class="">Saber más.</a>-->
             </div>
           </div>
