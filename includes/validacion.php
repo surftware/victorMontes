@@ -1,5 +1,5 @@
 <?php
-// creador Moreno Tolentino Jose Armando 
+
 $acceso = "";   
 $mensaje ="";
 $tipoAlerta="";
@@ -110,7 +110,5 @@ $return_arr = array("acceso" => $acceso,
                     "mensaje" => $mensaje,
                     "tipoAlerta" => $tipoAlerta);
 echo json_encode($return_arr);
-//$emisor="ventassexydiversion@gmail.com";
-//$pass="admin2020";
-//$destinatario = 'armando.moreno.tolentino@gmail.com'; // en esta línea va el mail del destinatario.
+
 ?>
