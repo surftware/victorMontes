@@ -14,7 +14,8 @@
   /*define('BASE_PATH', '/var/www/vmyasc.com/');*/
   include_once ("includes/nav.php");	  
  ?>
-
+	<span class="ir-arriba fas fa-angle-up"></span>
+ 
   <div id="carouselConocenos" class="carousel slide carousel-fade" data-ride="carousel">
 
     <div class="carousel-inner carrusel-inner">
@@ -63,7 +64,7 @@
               <div class="meta mb-5">
                 
                   <li class="punto "><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li class="juan"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
+                  <li class="user"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
                   <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
                
               </div>
@@ -83,7 +84,7 @@
               <div class="meta mb-5">
                 
                   <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li class="juan"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
+                  <li class="user"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
                   <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
                 
               </div>
@@ -100,11 +101,11 @@
             <div class="blog-grid-text p-2 ">
               <h4 class=""><a href="javascript:void(0)" class="texto_cards">Results professional report</a></h4>
               <div class="meta mb-5">
-               
-                  <li class="punto juan2"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
-                  <li class="juan"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
+                
+                  <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
+                  <li class="user"><a href="#" class="texto_cards"><i class="fas fa-user"></i> User</a></li>
                   <li class="punto"><a href="#" class="texto_cards"><i class="fas fa-comments"></i> 38</a></li>
-               
+                
               </div>
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
