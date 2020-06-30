@@ -11,7 +11,8 @@
   /*define('BASE_PATH', '/var/www/vmyasc.com/');*/
   include_once ("includes/nav.php");	  
  ?>
-
+	<span class="ir-arriba fas fa-angle-up"></span>
+ 
   <div id="carouselConocenos" class="carousel slide carousel-fade" data-ride="carousel">
 
     <div class="carousel-inner carrusel-inner">
