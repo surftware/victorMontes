@@ -1,7 +1,6 @@
 <!--
-// Creadores:
+//  Surftware (colaboradores): 
 
-//  -Armando Arciniega Solano.
 //  -Juan Miguel Días Teran.
 //  -José Armando Moreno Tolentino.
 -->
