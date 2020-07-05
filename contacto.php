@@ -42,39 +42,42 @@
         <div class="col-md-8">
 
           <form action="" class="form form--contacts" method="post" id="myForm" enctype="multipart/form-data">
-            <!-- inicia primer row de columnas-->
+
             <div class="row">
               <div class="col-sm-12 col-md-6">
-                <input type="text" class="form_field" placeholder="Nombre completo" required="" name="nombre" 
-                id="nombre" maxlength="50" require>
+                <input type="text" class="form_field" placeholder="Nombre completo" required="" name="nombre"
+                  id="nombre" maxlength="50" require>
               </div>
               <div class="col-sm-12 col-md-6">
                 <input type="text" class="form_field" placeholder="D&eacute;jenos su tel&eacute;fono" required=""
                   name="telefono" id="telefono" maxlength="10" onkeypress='return validaNumericos(event)' require>
               </div>
             </div>
-            <!-- termina primer row de columnas-->
-            <!-- inicia segundo row de columnas-->
+
             <div class="row">
               <div class="col-sm-12 col-md-12">
                 <input type="text" class="form_field" placeholder="Correo electr&oacute;nico" required="" name="correo"
-                 id="correo" maxlength="100" require>
+                  id="correo" maxlength="100" require>
               </div>
               <div class="col-sm-12 col-md-12">
                 <textarea class="form_textarea" placeholder="Escr&iacute;banos aqui su mensaje" required=""
                   name="mensaje" id="mensaje" maxlength="100" require></textarea>
 
-                 <div class="col-sm-12 col-md-12">
-                   <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
-                    id="rcaptcha" style="margin-left: 90px;"></div>
-                
-                 </div>
-                <button class="button button_agua button_medium mb-5" type="button" value="enviar" id="post">ENVIAR
-                <span class="spinner-grow spinner-grow-sm"></span></button>
-                
+
+
+                <div class="row">
+                  <div class="col-sm-12 col-md-6">
+                    <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt" id="rcaptcha"
+                      style="margin-left: 90px;"></div>
+
+                  </div>
+                  <div class="col-sm-12 col-md-6">
+                    <button class="button button_agua button_medium mb-5" type="button" value="enviar" id="post">ENVIAR
+                      <span class="spinner-grow spinner-grow-sm"></span></button>
+                  </div>
+                </div>
               </div>
             </div>
-            <!-- termina segundo row de columnas-->
           </form>
 
         </div>
@@ -82,7 +85,7 @@
     </div>
   </div>
   <!-- contacts area end -->
- 
+
   <!-- Inicia Mapa  -->
   <div class="section ptb-50" id="ubicacion">
     <div class="container justify-content-center">
