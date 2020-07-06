@@ -41,31 +41,43 @@
       <div class="row justify-content-center">
         <div class="col-md-8">
 
-          <form action="contacto.php" class="form form--contacts" method="post">
-            <!-- inicia primer row de columnas-->
+          <form action="" class="form form--contacts" method="post" id="myForm" enctype="multipart/form-data">
+
             <div class="row">
               <div class="col-sm-12 col-md-6">
-                <input type="text" class="form_field" placeholder="Nombre completo" required="" name="nombre">
+                <input type="text" class="form_field" placeholder="Nombre completo" required="" name="nombre"
+                  id="nombre" maxlength="50" require>
               </div>
               <div class="col-sm-12 col-md-6">
                 <input type="text" class="form_field" placeholder="D&eacute;jenos su tel&eacute;fono" required=""
-                  name="telefono">
+                  name="telefono" id="telefono" maxlength="10" onkeypress='return validaNumericos(event)' require>
               </div>
             </div>
-            <!-- termina primer row de columnas-->
-            <!-- inicia segundo row de columnas-->
+
             <div class="row">
               <div class="col-sm-12 col-md-12">
-                <input type="text" class="form_field" placeholder="Correo electr&oacute;nico" required="" name="correo">
+                <input type="text" class="form_field" placeholder="Correo electr&oacute;nico" required="" name="correo"
+                  id="correo" maxlength="100" require>
               </div>
               <div class="col-sm-12 col-md-12">
                 <textarea class="form_textarea" placeholder="Escr&iacute;banos aqui su mensaje" required=""
-                  name="mensaje"></textarea>
-                <button class="button button_agua button_medium mb-5" type="submit">ENVIAR
-                <span class="spinner-grow spinner-grow-sm"></span></button>
+                  name="mensaje" id="mensaje" maxlength="100" require></textarea>
+
+
+
+                <div class="row">
+                  <div class="col-sm-12 col-md-6">
+                    <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt" id="rcaptcha"
+                      style="margin-left: 90px;"></div>
+
+                  </div>
+                  <div class="col-sm-12 col-md-6">
+                    <button class="button button_agua button_medium mb-5" type="button" value="enviar" id="post">ENVIAR
+                      <span class="spinner-grow spinner-grow-sm"></span></button>
+                  </div>
+                </div>
               </div>
             </div>
-            <!-- termina segundo row de columnas-->
           </form>
 
         </div>
@@ -73,37 +85,6 @@
     </div>
   </div>
   <!-- contacts area end -->
-  <?php
-
-    $remitente = $_POST['correo'];
-    $destinatario = 'vicmont@prodigy.net.mx'; // en esta línea va el mail del destinatario.
-    $asunto = 'E-mail enviado desde la página web vmyasc.com.mx. Contestar a la brevedad.'; // acá se puede modificar el asunto del mail
-    if (!$_POST)
-    {      
-
-    }
-    else
-    {        
-      $cuerpo =  "Nombre:   " . $_POST["nombre"]    . "\r\n"; 
-      $cuerpo .= "Teléfono: " . $_POST["telefono"]  . "\r\n";
-      $cuerpo .= "Email:    " . $_POST["correo"]    . "\r\n";
-      $cuerpo .= "Mensaje:  " . $_POST["mensaje"]   . "\r\n";
-
-      //las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir
-      // con el "name" de cada campo del formulario.
-	    // Si se agrega un campo al formulario, hay que agregarlo acá.
-
-      $headers  = "MIME-Version: 1.0\n";
-      $headers .= "Content-type: text/plain; charset=utf-8\n";
-      $headers .= "X-Priority: 3\n";
-      $headers .= "X-MSMail-Priority: Normal\n";
-      $headers .= "X-Mailer: php\n";
-      $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
-
-      mail($destinatario, $asunto, $cuerpo, $headers);        
-      
-    }
-?>
 
   <!-- Inicia Mapa  -->
   <div class="section ptb-50" id="ubicacion">
