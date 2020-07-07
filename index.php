@@ -26,24 +26,24 @@
     </ol>
     <div class="carousel-inner ">
       <div class="carousel-item active">
-        <img class="d-block w-100 img-fluid carrusel-inner" src="img/abogado8.png" alt="First slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/vmyasc-despacho-legal-1.jpg" alt="victor-montes-despacho-legal">
         <div class="transparencia1 d-block mx-auto">
-          <h1 class="h1-caption letra_res">Víctor Montes y Asociados</h1>
-          <p class="p-caption letra_res">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption-slide1 letra_res">Víctor Montes y Asociados</h1>
+          <p class="p-caption-slide1 letra_res">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/2.jpg" alt="Second slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/vmyasc-despacho-legal-2.jpg" alt="victor-montes-despacho-legal">
         <div class="transparencia1 d-block mx-auto">
-          <h1 class="h1-caption letra_res">Víctor Montes y Asociados</h1>
-          <p class="p-caption letra_res">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption-slide2 letra_res">Víctor Montes y Asociados</h1>
+          <p class="p-caption-slide2 letra_res">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/3.jpg" alt="Third slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/vmyasc-despacho-legal-3.jpg" alt="victor-montes-despacho-legal">
         <div class="transparencia1 d-block mx-auto">
-          <h1 class="h1-caption letra_res">Víctor Montes y Asociados</h1>
-          <p class="p-caption letra_res">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption-slide3 letra_res">Víctor Montes y Asociados</h1>
+          <p class="p-caption-slide3 letra_res">Despacho jur&iacute;dico</p>
         </div>
       </div>
     </div>
@@ -63,9 +63,9 @@
     <div class="container">
 
 
-      <div class="row flexresponsive2 align-items-sm-center">
+      <div class="row flexresponsive2 align-items-sm-center justify-content-center">
 
-        <div class="col-sm-12 col-md-8 text-justify longMax">
+        <div class="col-sm-12 col-md-6 text-justify longMax mr-3">
           <h1 class="h1-section mb-5 text-center"> Conozca nuestro despacho</h1>
 
           <p class="my-3"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
@@ -88,7 +88,7 @@
           </a>
         </div>
 
-        <div class="col-sm-12 col-md-4 imagen_r ">
+        <div class="col-sm-12 col-md-4 imagen_r ml-3">
 
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid text-extrasm">
           <div class="transparenciaImg d-block mx-auto">

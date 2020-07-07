@@ -26,7 +26,23 @@
           </ul>
         </div>
 
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
+        
+          <h2 class=" h1-footer m-4">Somos Profesionales en Derecho</h2>
+          <p class="text-footer mb-0 text-justify">
+            Conformamos una red de expertos en temas de Derecho, garantizando solución completa e integral
+            en sus asuntos.
+          </p>
+          <h2 class=" h1-footer m-4">Horario de Atenci&oacute;n</h2>
+          <p class="text-footer mb-0">
+            Lunes a Viernes de: 10:00 am a 3:00 pm
+            y 5:00 pm a 8:00 pm
+          </p>
 
+
+
+
+        </div>
 
         <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
           <h1 class="h1-footer m-4">Contacto</h1>
@@ -56,24 +72,7 @@
           </p>
         </div>
 
-        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
         
-          <h2 class=" h1-footer m-4">Somos Profesionales en Derecho</h2>
-          <p class="text-footer mb-0 text-justify">
-            Conformamos una red de expertos en temas de Derecho, garantizando solución completa e integral
-            en sus asuntos.
-          </p>
-          <h2 class=" h1-footer m-4">Horario de Atenci&oacute;n</h2>
-          <p class="text-footer mb-0">
-            Lunes a Viernes de: 10:00 am a 3:00 pm
-            y 5:00 pm a 8:00 pm
-          </p>
-
-
-
-
-        </div>
-
 
         <div class="col-12 col-sm-12 col-md-3 mt-5 text-md-center text-sm-center text-extrasm">
           <a class="navbar-brand ml-4" href="index.php">
@@ -89,7 +88,7 @@
 
       <div class="row mt-5">
         <div class="col-md-12 text-center ">
-          <a href="https://surftware.me" class="surftware" target="_blank">
+          <a href="http://surftware.company" class="surftware" target="_blank">
             <p class=""><i class="fas fa-copyright"></i> P&aacute;gina dise&ntilde;ada por Surftware </p>
           </a>
         </div>
