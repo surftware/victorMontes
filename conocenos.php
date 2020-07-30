@@ -22,34 +22,20 @@
       <div class="carousel-item active">
         <img class="d-block w-100 img-fluid carrusel-inner" src="img/banner01.png" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-          <h1 class="h1-caption letra_res">Víctor Montes y Asociados</h1>
+          <h1 class="h1-caption letra_res">V&iacute;ctor Montes y Asociados</h1>
           <p class="p-caption letra_res">Con&oacute;cenos</p>
         </div>
       </div>
     </div>
   </div>
   <!-- Termina banner-->
-  <!-- Inicia Logros  -->
-  <div class="section ptb-50" id="Logros">
-    <div class="container ">
-      <div class="row">
-        <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-          <h1 class="h1-section">Logros Destacados </h1>
-          <p class="text-center">
-
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Termina Logros  -->
 
   <!-- Inicia Tarjetas Equipo  -->
-  <section>
+  <section id="Asociados">
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-          <h1 class="h1-section">Nuestro Equipo</h1>
+          <h1 class="h1-section">Asociados</h1>
           <p class="text-center">
             Conoce a nuestro quipo de Profesionistas, ellos estar&aacute;n para asesorarte
           </p>
@@ -60,7 +46,7 @@
           <div class="blog-grid">
             <div class="blog-grid-img position-relative"><img alt="img" src="img/cards/ab01.png"></div>
             <div class="blog-grid-text p-2 ">
-              <h4 class=""><a href="javascript:void(0)" class="texto_cards"> Results professional report</a></h4>
+              <h4 class=""><a href="javascript:void(0)" class="texto_cards"> Resultadoss professional report</a></h4>
               <div class="meta mb-5">
                 
                   <li class="punto "><a href="#" class="texto_cards"><i class="fas fa-calendar-alt "></i> 10 Aug, 2018</a></li>
@@ -91,7 +77,7 @@
               <p>Achitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quiavolupt assit aspernatur aut
                 odit aut fugit, sed quia consequuntur magni.</p>
                 <input class="btn btn-primary" type="submit" value="Submit">
-<!--<a href="javascript:void(0)" class="">Saber más.</a>-->
+          <!--<a href="javascript:void(0)" class="">Saber más.</a>-->
             </div>
           </div>
         </div>
@@ -111,7 +97,7 @@
                 odit aut fugit, sed quia consequuntur magni.</p>
                 <input class="btn btn-primary" type="submit" value="Submit">
 
-<!--<a href="javascript:void(0)" class="">Saber más.</a>-->
+            <!--<a href="javascript:void(0)" class="">Saber más.</a>-->
             </div>
           </div>
         </div>
@@ -119,12 +105,13 @@
       </div>
   </section>
   <!-- Termina Equipo de trabajo  -->
-  <!-- Inicia Fechas Importantes -->
-  <div class="section ptb-50" id="Fechas">
+  
+  <!-- Inicia Logros Destacados -->
+  <div class="section ptb-50" id="Logros Destacados">
     <div class="container ">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-          <h1 class="h1-section">Fechas Importantes </h1>
+          <h1 class="h1-section">Logros Destacados </h1>
           <p class="text-center">
 
           </p>
@@ -132,7 +119,29 @@
       </div>
     </div>
   </div>
-  <!-- Termina Fechas Importantes  -->
+  <!-- Termina Logros Destacados  -->
+
+
+  <!-- Inicia Despachos Filiales  -->
+  <div class="section ptb-50" id="Despachos">
+    <div class="container ">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+          <h1 class="h1-section">Despachos Filiales </h1>
+          <p class="text-center">
+
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Termina Despachos Filiales  -->
+   <!-- SCROLL TO TOP -->
+   <div class="scrollup">
+        <a href="#"><i class="fa fa-chevron-up"></i></a>
+    </div>
+   
+    <!-- SCROLL TO TOP ENDS -->
 
 
 

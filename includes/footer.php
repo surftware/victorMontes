@@ -33,15 +33,15 @@
           <p class="mb-1">
             <i class="fa fa-phone mr-1"></i>
             <span class="text-footer">Tels:
-              <a class="text-footer" href="tel:+52 5552821930"> 5282-1930</a>
+              <a class="text-footer" href="tel:+52 5552821930"> 55-5282-1930</a>
               /
-              <a class="text-footer" href="tel:+52 5552822030"> 5282-2030</a>
+              <a class="text-footer" href="tel:+52 5552822030"> 55-5282-2030</a>
             </span>
           </p>
 
           <p class="text-footer mb-1">
-            <a href="mailto:vicmont@prodigy.net.mx" class="text-footer">
-              <i class="fas fa-at mr-1"></i> vicmont@prodigy.net.mx
+            <a href="mailto:despacho@vmyasc.com.mx " class="text-footer">
+              <i class="fas fa-at mr-1"></i> despacho@vmyasc.com.mx 
             </a>
           </p>
 
@@ -49,7 +49,7 @@
             <a href="https://goo.gl/maps/A4u8GiS8XeWLhsHQ9" class="text-footer" target="_blank">
               <p>
                 <i class="fas fa-location-arrow mr-1"></i>
-                Kappa #11 Interior 4; Col. Romero de Terreros;
+                Kappa #11 C; Col. Romero de Terreros;
                 CP.04310, Coyoac&aacute;n; Ciudad de M&eacute;xico
               </p>
             </a>
