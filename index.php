@@ -26,24 +26,27 @@
     </ol>
     <div class="carousel-inner ">
       <div class="carousel-item active">
-        <img class="d-block w-100 img-fluid carrusel-inner" src="img/abogado8.png" alt="First slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/vmyasc-despacho-legal-1.jpg"
+          alt="victor-montes-despacho-legal">
         <div class="transparencia1 d-block mx-auto">
-          <h1 class="h1-caption letra_res">V&iacute;ctor Montes y Asociados</h1>
-          <p class="p-caption letra_res">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption-slide1 letra_res">Víctor Montes y Asociados</h1>
+          <p class="p-caption-slide1 letra_res">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/2.jpg" alt="Second slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/vmyasc-despacho-legal-2.jpg"
+          alt="victor-montes-despacho-legal">
         <div class="transparencia1 d-block mx-auto">
-          <h1 class="h1-caption letra_res">V&iacute;ctor Montes y Asociados</h1>
-          <p class="p-caption letra_res">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption-slide2 letra_res">Víctor Montes y Asociados</h1>
+          <p class="p-caption-slide2 letra_res">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/3.jpg" alt="Third slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/carrusel/vmyasc-despacho-legal-3.jpg"
+          alt="victor-montes-despacho-legal">
         <div class="transparencia1 d-block mx-auto">
-          <h1 class="h1-caption letra_res">V&iacute;ctor Montes y Asociados</h1>
-          <p class="p-caption letra_res">Despacho jur&iacute;dico</p>
+          <h1 class="h1-caption-slide3 letra_res">Víctor Montes y Asociados</h1>
+          <p class="p-caption-slide3 letra_res">Despacho jur&iacute;dico</p>
         </div>
       </div>
     </div>
@@ -61,8 +64,11 @@
   <!-- Inicia Conozca nuestro despacho-->
   <div class="section m-5 ptb-50  " id="Conozca">
     <div class="container">
-      <div class="row flexresponsive2 align-items-sm-center">
-        <div class="col-sm-12 col-md-8 text-justify longMax">
+
+
+      <div class="row flexresponsive2 align-items-sm-center justify-content-center">
+
+        <div class="col-sm-12 col-md-5 text-justify longMax mr-3">
           <h1 class="h1-section mb-5 text-center"> Conozca nuestro despacho</h1>
           <p class="my-3"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
             Montes Mart&iacute;nez,
@@ -84,7 +90,9 @@
             </button>
           </a>
         </div>
-        <div class="col-sm-12 col-md-4 imagen_r ">
+
+        <div class="col-sm-12 col-md-5 imagen_r ml-3">
+
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid text-extrasm">
           <div class="transparenciaImg d-block mx-auto">
             <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
@@ -221,7 +229,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 ">
-          <h1 class="h1-section text-center "> Nuestros litigantes </h1>
+          <h1 class="h1-section text-center "> Asociados de la Firma </h1>
           <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
           <div class="owl-carousel owl-theme">
@@ -262,39 +270,6 @@
     </div>
   </div>
 
-  <!-- Inicia Testimonios-->
-  <div class="section mb-5 ptb-50" id="Testimonios">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-8 offset-sm-2 col-md-6 offset-md-3 text-center bg-light">
-          <h1 class="h1-section text-center centroM mt-4"> Testimonios </h1>
-          <p class="text-center"> La experiencia de nuestros miembros asesores </p>
-          <p class="text-justify mx-5 "> "Yo que conozco el mundo de los abogados,
-            puedo asegurar que nunca he visto una atenci&oacute;n al cliente
-            tan excelente como la de la firma. De verdad felicito al grupo de abogados ,especialmente
-            al Lic.V&iacute;ctor Montes para el que no tengo palabras suficientes de agradecimiento. Mi
-            caso era un tanto delicado y ha sido muy atento desde un principio ,inform&aacute;ndome y
-            resolviendo todas mis dudas. Al final se ha resuelto todo favorablemente." </p>
-
-          <img src="img/abogado6.png"
-            class="imgServicios mb-3 ml-1 border-light rounded-circle d-block mx-auto img-fluid centroM" alt="">
-          <a href="conocenos.php" class="d-block mx-auto">
-            <h5>Ra&uacute;l P&eacute;rez</h5>
-            <button class="button button_agua button_medium mb-4">Leer m&aacute;s
-            </button>
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Termina Testimonios-->
-
-  <!-- SCROLL TO TOP -->
-  <div class="scrollup">
-    <a href="#"><i class="fa fa-chevron-up"></i></a>
-  </div>
-
-  <!-- SCROLL TO TOP ENDS -->
 
   <?php
   include_once ("includes/footer.php");

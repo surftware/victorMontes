@@ -16,10 +16,10 @@
 
     <div class="carousel-inner carrusel-inner">
       <div class="carousel-item active">
-        <img class="d-block w-100 img-fluid carrusel-inner" src="img/banner02.png" alt="First slide">
+        <img class="d-block w-100 img-fluid carrusel-inner" src="img/vmyasc-despacho-servicios.jpg" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-          <h1 class="h1-caption letra_res">Víctor Montes y Asociados</h1>
-          <p class="p-caption letra_res">Servicios</p>
+          <h1 class="h1-caption-servicios letra_res">Víctor Montes y Asociados</h1>
+          <p class="p-caption-servicios letra_res">Servicios</p>
         </div>
       </div>
     </div>
