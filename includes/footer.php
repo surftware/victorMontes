@@ -57,7 +57,7 @@
 
           <p class="text-footer mb-1">
             <a href="mailto:despacho@vmyasc.com.mx" class="text-footer">
-              <i class="fas fa-at mr-1"></i> despacho@vmyasc.com.mx
+              <i class="fas fa-envelope mr-1"></i> despacho@vmyasc.com.mx
             </a>
           </p>
 
