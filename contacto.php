@@ -67,7 +67,7 @@
 
                 <div class="row">
                   <div class="col-sm-12 col-md-6">
-                    <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt" id="rcaptcha"
+                    <div class="g-recaptcha" data-sitekey="6LchXq4ZAAAAACuXrPQT_MSXY86pQthfbUHBuk5J" id="rcaptcha"
                       style="margin-left: 90px;"></div>
 
                   </div>
