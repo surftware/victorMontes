@@ -22,21 +22,21 @@
       <div class="carousel-item active">
         <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-        <h1 class="h1-caption letra_res">Víctor Montes y Asociados</h1>
+        <h1 class="h1-caption letra_res">V&iacute;ctor Montes y Asociados</h1>
         <p class="p-caption letra_res">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Second slide">
         <div class="transparencia1 d-block mx-auto">
-        <h1 class="h1-caption letra_res">Víctor Montes y Asociados</h1>
+        <h1 class="h1-caption letra_res">V&iacute;ctor Montes y Asociados</h1>
           <p class="p-caption letra_res">Despacho jur&iacute;dico</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
         <div class="transparencia1 d-block mx-auto">
-        <h1 class="h1-caption letra_res">Víctor Montes y Asociados</h1>
+        <h1 class="h1-caption letra_res">V&iacute;ctor Montes y Asociados</h1>
           <p class="p-caption letra_res">Despacho jur&iacute;dico</p>
         </div>
       </div>
@@ -52,6 +52,13 @@
   </div>
 
   <!-- Termina Carrusel-->
+
+   <!-- SCROLL TO TOP -->
+   <div class="scrollup">
+        <a href="#"><i class="fa fa-chevron-up"></i></a>
+    </div>
+   
+    <!-- SCROLL TO TOP ENDS -->
 
 
   <?php

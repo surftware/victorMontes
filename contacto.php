@@ -94,8 +94,7 @@
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
           <h1 class="h1-section">Mapa de Ubicaci&oacute;n</h1>
           <p class="mb-0">
-            Vis&iacute;tanos por primera vez, toda la informaci&oacute;n que necesites ser&aacute;
-            brindada personalmente .
+          Atenci&oacute;n personal s&oacute;lo con previa cita.
           </p>
           <p>Lunes a Viernes de: 10:00 am a 3:00 pm y 5:00 pm a 8:00 pm</p>
         </div>
@@ -112,6 +111,13 @@
     </div>
   </div>
   <!-- Termina Mapa  -->
+
+   <!-- SCROLL TO TOP -->
+   <div class="scrollup">
+        <a href="#"><i class="fa fa-chevron-up"></i></a>
+    </div>
+   
+    <!-- SCROLL TO TOP ENDS -->
 
 
 
