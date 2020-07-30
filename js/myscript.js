@@ -15,17 +15,10 @@ $(document).ready(function(){
                 items:5
             }
         }
-    })   
-   
-
-
+    })  
 
  }); 
 
-
- //$("form").submit(function () {
-    //alert("¡Su mensaje ha sido enviado!, Gracias por comunciarse con nosotros.");
-//});
 
 $( "#post" ).click(function() {
 
@@ -121,18 +114,4 @@ else
     img.src = URL.createObjectURL(uploadFile);
 }                 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
