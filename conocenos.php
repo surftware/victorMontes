@@ -26,27 +26,14 @@
     </div>
   </div>
   <!-- Termina banner-->
-  <!-- Inicia Logros  -->
-  <div class="section ptb-50" id="Logros">
-    <div class="container ">
-      <div class="row">
-        <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-          <h1 class="h1-section">Logros Destacados </h1>
-          <p class="text-center">
-
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Termina Logros  -->
+  
 
   <!-- Inicia Tarjetas Equipo  -->
-  <section>
+  <section class="ptb-50" id="Asociados">
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-          <h1 class="h1-section">Nuestro Equipo</h1>
+          <h1 class="h1-section">Nuestro Equipo de Asociados</h1>
           <p class="text-center">
             Conoce a nuestro quipo de Profesionistas, ellos estar&aacute;n para asesorarte
           </p>
@@ -153,12 +140,29 @@
     </div>
   </section>
   <!-- Termina Equipo de trabajo  -->
+
+  <!-- Inicia Logros  -->
+  <div class="section ptb-50" id="Logros">
+    <div class="container ">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12 text-center">
+          <h1 class="h1-section">Logros Destacados </h1>
+          <p class="text-center">
+
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Termina Logros  -->
+
+  
   <!-- Inicia Fechas Importantes -->
   <div class="section ptb-50" id="Fechas">
     <div class="container ">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-          <h1 class="h1-section">Fechas Importantes </h1>
+          <h1 class="h1-section">Despachos Filiales</h1>
           <p class="text-center">
 
           </p>

@@ -76,7 +76,7 @@
 
         <div class="col-12 col-sm-12 col-md-3 mt-5 text-md-center text-sm-center text-extrasm">
           <a class="navbar-brand ml-4" href="index.php">
-            <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS</h1>
+            <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS S.C.</h1>
             <h2 class="h2-footer footer-logo-base">Despacho Legal</h2>
             <img src="img/logoFooter.png" class="logo-footer" alt="logo">
           </a>

@@ -235,7 +235,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 ">
-          <h1 class="h1-section text-center "> Nuestros litigantes </h1>
+          <h1 class="h1-section text-center "> Asociados de la Firma </h1>
           <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
           <div class="owl-carousel owl-theme">

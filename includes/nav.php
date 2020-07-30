@@ -5,7 +5,7 @@
                 <img src="img/logo.png" class="d-block mx-auto logo" alt="logo">
             </div>
             <div class="col-md-10">
-                <p class="p-logo">VICTOR MONTES Y ASOCIADOS</p>
+                <p class="p-logo">VICTOR MONTES Y ASOCIADOS S.C.</p>
                 <p class="p-logo-base text-center">Despacho legal</p>
             </div>
         </div>
