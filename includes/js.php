@@ -4,8 +4,7 @@
   <!-- owl carousel -->
   <script src="js/owl.carousel.min.js"></script>
  
- <!-- custom script -->
- <script src="js/myscript.js"></script>
+
 
 
 
@@ -26,3 +25,6 @@
  <script src='https://www.google.com/recaptcha/api.js' async></script>
 
  <script type="text/javascript" charset="utf-8"></script>
+
+ <!-- custom script -->
+ <script src="js/myscript.js"></script>

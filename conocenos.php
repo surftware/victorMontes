@@ -33,7 +33,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-          <h1 class="h1-section">Nuestro Equipo de Asociados</h1>
+          <h1 class="h1-section">Asociados</h1>
           <p class="text-center">
             Conoce a nuestro quipo de Profesionistas, ellos estar&aacute;n para asesorarte
           </p>
@@ -158,7 +158,7 @@
 
   
   <!-- Inicia Fechas Importantes -->
-  <div class="section ptb-50" id="Fechas">
+  <div class="section ptb-50" id="Despachos">
     <div class="container ">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
