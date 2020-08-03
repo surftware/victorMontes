@@ -1,3 +1,4 @@
+<span class="ir-arriba icon-arrow-up2"></span>
 <footer>
   <section>
     <div class="container">
@@ -89,9 +90,9 @@
         </div>
       </div> 
 
-      <a><i class="fas fa-angle-up"></i></a>
+      <span class="ir-arriba fas fa-angle-up"></span>
 
-
+    
     </div>
   </section>
 </footer>

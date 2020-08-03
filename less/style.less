@@ -1311,8 +1311,7 @@ li.punto{list-style:none; font-size:12px; float:left;width:100px; padding-left: 
 
 //  Scrollup
 
-
-.scrollup {
+.ir-arriba {
     display: none;
     width: 30px;
     height: 30px;
@@ -1320,27 +1319,19 @@ li.punto{list-style:none; font-size:12px; float:left;width:100px; padding-left: 
     opacity: .3;
     position: fixed;
     bottom: 40px;
-    right: 25px;
+	right: 25px;
+	font-size: 46px;
     color: #fff;
     cursor: pointer;
-    background-color: #000;
+    background-color: @color2;
     z-index: 10;
     -webkit-transition: background-color 2s ease-in-out;
     -moz-transition: background-color 2s ease-in-out;
     -o-transition: background-color 2s ease-in-out;
     transition: background-color 2s ease-in-out;
 }
-
-
-
-.scrollup i {
-    font-size: 13px;
-    position: absolute;
+.ir-arriba:hover {
+    background-color: @color2;
     opacity: 1;
-    color: #fff;
-    left: 50%;
-    top: 50%;
-    margin-top: -7px;
-    margin-left: -6px;
-    text-decoration: none;
 }
+

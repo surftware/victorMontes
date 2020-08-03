@@ -118,7 +118,7 @@ else
 
 
 /*  WOW Animation 
-/ ---------------------------------------------------------------------- */
+/ ---------------------------------------------------------------------- 
 
 
 function initAnimation () {
@@ -127,31 +127,23 @@ function initAnimation () {
 
 } // initAnimation
 
-/*---------------------------------------
-  Scrollup
------------------------------------------*/
+/*---------------------------------------*/
 
-function initScrollTop() {
-    $(window).on("scroll", function () {
-  
-      if ($(this).scrollTop() > 100) {
-  
-        $('.scrollup').fadeIn();
-  
-      } else {
-  
-        $('.scrollup').fadeOut();
-  
-      }
-  
-    });
-  
-    $('.scrollup').on('click', function () {
-  
-      $('html, body').animate({ scrollTop: 0 }, 800);
-  
-      return false;
-  
-    });
-  
-  } // initScrollTop
+
+$(document).ready(function(){
+ 
+	$('.ir-arriba').click(function(){
+		$('body, html').animate({
+			scrollTop: '0px'
+		}, 300);
+	});
+ 
+	$(window).scroll(function(){
+		if( $(this).scrollTop() > 0 ){
+			$('.ir-arriba').slideDown(300);
+		} else {
+			$('.ir-arriba').slideUp(300);
+		}
+	});
+ 
+}); // initScrollTop
