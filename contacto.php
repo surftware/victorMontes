@@ -18,8 +18,8 @@
       <div class="carousel-item active">
         <img class="d-block w-100 img-fluid carrusel-inner" src="img/vmyasc-despacho-contacto.jpg" alt="First slide">
         <div class="transparencia1 d-block mx-auto">
-          <h1 class="h1-caption letra_res">V&iacute;ctor Montes y Asociados</h1>
-          <p class="p-caption letra_res">Contacto</p>
+          <h1 class="h1-caption-contacto letra_res">Víctor Montes y Asociados</h1>
+          <p class="p-caption-contacto letra_res">Contacto</p>
         </div>
       </div>
     </div>
