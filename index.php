@@ -93,6 +93,8 @@
 
         <div class="col-sm-12 col-md-5 imagen_r ml-3">
 
+        
+
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid text-extrasm">
           <div class="transparenciaImg d-block mx-auto">
             <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
@@ -269,7 +271,11 @@
       </div>
     </div>
   </div>
-
+<!-- SCROLL TO TOP -->
+<div class="scrollup">
+  <a href="#"><i class="fas fa-angle-up"></i></a>
+</div>
+<!-- SCROLL TO TOP ENDS -->
 
   <?php
   include_once ("includes/footer.php");

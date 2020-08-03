@@ -633,9 +633,7 @@ footer {
 }
 @media screen and (max-width:800px) and (min-width:375px){
   .imagen_r {
-  max-width: 100.000%;
-  margin-left: 48px;
-  margin-right: 48px;
+  max-width: 80.000%;
   }
 }
 @media screen and (max-width: 800px) and (min-width: 375px){
@@ -1310,14 +1308,40 @@ li.punto{list-style:none; font-size:12px; float:left;width:100px; padding-left: 
 }
 
 	
-.ir-arriba {
-	display:none;
-	padding:20px;
-	background:@color2;
-	font-size:20px;
-	color:#fff;
-	cursor:pointer;
-	position: fixed;
-	bottom:20px;
-	right:20px;
+
+
+//  Scrollup
+
+
+.scrollup {
+    display: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    opacity: .3;
+    position: fixed;
+    bottom: 40px;
+    right: 25px;
+    color: #fff;
+    cursor: pointer;
+    background-color: #000;
+    z-index: 10;
+    -webkit-transition: background-color 2s ease-in-out;
+    -moz-transition: background-color 2s ease-in-out;
+    -o-transition: background-color 2s ease-in-out;
+    transition: background-color 2s ease-in-out;
+}
+
+
+
+.scrollup i {
+    font-size: 13px;
+    position: absolute;
+    opacity: 1;
+    color: #fff;
+    left: 50%;
+    top: 50%;
+    margin-top: -7px;
+    margin-left: -6px;
+    text-decoration: none;
 }

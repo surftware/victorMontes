@@ -27,7 +27,7 @@
         </div>
 
         <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
-        
+
           <h2 class=" h1-footer m-4">Somos Profesionales en Derecho</h2>
           <p class="text-footer mb-0 text-justify">
             Conformamos una red de expertos en temas de Derecho, garantizando solución completa e integral
@@ -56,8 +56,8 @@
           </p>
 
           <p class="text-footer mb-1">
-            <a href="mailto:despacho@vmyasc.com.mx " class="text-footer">
-              <i class="fas fa-at mr-1"></i> despacho@vmyasc.com.mx 
+            <a href="mailto:despacho@vmyasc.com.mx" class="text-footer">
+              <i class="fas fa-envelope mr-1"></i> despacho@vmyasc.com.mx
             </a>
           </p>
 
@@ -65,14 +65,14 @@
             <a href="https://goo.gl/maps/A4u8GiS8XeWLhsHQ9" class="text-footer" target="_blank">
               <p>
                 <i class="fas fa-location-arrow mr-1"></i>
-                Kappa #11 C; Col. Romero de Terreros;
+                Kappa #11 Interior C; Col. Romero de Terreros;
                 CP.04310, Coyoac&aacute;n; Ciudad de M&eacute;xico
               </p>
             </a>
           </p>
         </div>
 
-        
+
 
         <div class="col-12 col-sm-12 col-md-3 mt-5 text-md-center text-sm-center text-extrasm">
           <a class="navbar-brand ml-4" href="index.php">
@@ -98,3 +98,4 @@
     </div>
   </div>
 </footer>
+
