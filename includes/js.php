@@ -4,8 +4,6 @@
   <!-- owl carousel -->
  <script type="text/javascript" src="js/owl.carousel.min.js"></script>
 
-
-
  <!-- wow -->
 <script type="text/javascript" src="js/wow.min.js" async></script>
 
