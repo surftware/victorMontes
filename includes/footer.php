@@ -1,6 +1,7 @@
-<footer>  
+<footer>
   <section>
     <div class="container">
+
       <div class="row ">
         <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
           <h1 class=" h1-footer m-4">Mapa de sitio</h1>
@@ -61,11 +62,9 @@
 
           <p class="text-footer mb-1">
             <a href="https://goo.gl/maps/A4u8GiS8XeWLhsHQ9" class="text-footer" target="_blank">
-              <p>
-                <i class="fas fa-location-arrow mr-1"></i>
-                Kappa #11 Interior C; Col. Romero de Terreros;
-                CP.04310, Coyoac&aacute;n; Ciudad de M&eacute;xico
-              </p>
+              <i class="fas fa-location-arrow mr-1"></i>
+              Kappa #11 Interior C; Col. Romero de Terreros;
+              CP.04310, Coyoac&aacute;n; Ciudad de M&eacute;xico
             </a>
           </p>
         </div>
@@ -80,9 +79,7 @@
           </a>
         </div>
 
-
       </div>
-
 
       <div class="row mt-5">
         <div class="col-md-12 text-center ">
@@ -90,7 +87,9 @@
             <p class=""><i class="fas fa-copyright"></i> P&aacute;gina dise&ntilde;ada por Surftware </p>
           </a>
         </div>
-      </div>
+      </div> 
+
+      <a><i class="fas fa-angle-up"></i></a>
 
 
     </div>
