@@ -277,7 +277,11 @@
       </div>
     </div>
   </div>
-
+<!-- SCROLL TO TOP -->
+<div class="scrollup">
+  <a href="#"><i class="fas fa-angle-up"></i></a>
+</div>
+<!-- SCROLL TO TOP ENDS -->
 
   <?php
   include_once ("includes/footer.php");
