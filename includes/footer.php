@@ -1,9 +1,7 @@
-<footer>
-  <div class="section">
+<footer>  
+  <section>
     <div class="container">
-
       <div class="row ">
-
         <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center text-extrasm">
           <h1 class=" h1-footer m-4">Mapa de sitio</h1>
           <ul class="list-unstyled text-footer">
@@ -96,6 +94,5 @@
 
 
     </div>
-  </div>
+  </section>
 </footer>
-
