@@ -3,11 +3,6 @@
 
   <!-- owl carousel -->
   <script src="js/owl.carousel.min.js"></script>
- 
-
-
-
-
 
  <!-- wow -->
  <script src="js/wow.min.js" async></script>
