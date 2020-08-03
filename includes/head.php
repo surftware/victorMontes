@@ -81,9 +81,6 @@ Ultima Actualización: Noviembre 2019
   <!-- theme styles -->
   <link rel="stylesheet" href="css/style.css" />
 
-  <!-- owl carousel -->
-  <link rel="stylesheet" href="css/owl.carousel.css" />
-
   <!-- wow -->
   <link rel="stylesheet" href="css/animate.css" />
 
