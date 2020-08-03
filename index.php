@@ -64,8 +64,11 @@
   <!-- Inicia Conozca nuestro despacho-->
   <div class="section m-5 ptb-50  " id="Conozca">
     <div class="container">
-      <div class="row flexresponsive2 align-items-sm-center">
-        <div class="col-sm-12 col-md-8 text-justify longMax">
+
+
+      <div class="row flexresponsive2 align-items-sm-center justify-content-center">
+
+        <div class="col-sm-12 col-md-5 text-justify longMax mr-3">
           <h1 class="h1-section mb-5 text-center"> Conozca nuestro despacho</h1>
           <p class="my-3"> Somos una firma de abogados formada en el año de 1986, por el Lic. V&iacute;ctor Ra&uacute;l
             Montes Mart&iacute;nez,
