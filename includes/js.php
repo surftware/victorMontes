@@ -11,7 +11,7 @@
 <script type="text/javascript" src="js/bootstrap.min.js" async></script>
 
  <!-- font awesome-->
-<script type="text/javascript" src="fontawesome/js/all.min.js" async></script>
+<script type="text/javascript" src="fontawesome/js/all.min.js"></script>
 
  <!-- sweetalert2-->
 <script type="text/javascript" src="js/sweetalert2.js" async></script>
