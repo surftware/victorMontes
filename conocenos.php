@@ -154,23 +154,6 @@
   </div>
   <!-- Termina Logros  -->
 
-  
-  <!-- Inicia Fechas Importantes -->
-  <div class="section ptb-50" id="Despachos">
-    <div class="container ">
-      <div class="row">
-        <div class="col-sm-12 col-md-12 col-lg-12 text-center">
-          <h1 class="h1-section">Despachos Filiales</h1>
-          <p class="text-center">
-
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!-- Termina Logros Destacados  -->
-
-
   <!-- Inicia Despachos Filiales  -->
   <div class="section ptb-50" id="Despachos">
     <div class="container ">
@@ -185,15 +168,6 @@
     </div>
   </div>
   <!-- Termina Despachos Filiales  -->
-   <!-- SCROLL TO TOP -->
-   <div class="scrollup">
-        <a href="#"><i class="fa fa-chevron-up"></i></a>
-    </div>
-   
-    <!-- SCROLL TO TOP ENDS -->
-
-
-
 
   <?php
   include_once ("includes/footer.php");
