@@ -5,7 +5,7 @@
 
       <div class="row p-4">
 
-        <div class="col-12 col-sm-12 col-md-2 text-md-center text-sm-center mt-4 mb-2">
+        <div class="col-12 col-sm-12 col-md-2 text-md-center text-sm-center mt-4 mb-2 text-extrasm">
           <h1 class=" h1-footer">Mapa de sitio</h1>
           <ul class="list-unstyled text-footer">
             <p class="mb-1">
@@ -27,7 +27,7 @@
           </ul>
         </div>
 
-        <div class="col-12 col-sm-12 col-md-4 text-md-center text-sm-center mt-4 mb-2">
+        <div class="col-12 col-sm-12 col-md-4 text-md-center text-sm-center mt-4 mb-2 text-extrasm">
 
           <h2 class=" h1-footer">Somos Profesionales en Derecho</h2>
           <p class="text-footer">
@@ -41,7 +41,7 @@
           </p>
         </div>
 
-        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center mt-4 mb-2">
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center mt-4 mb-2 text-extrasm">
           <h1 class="h1-footer">Contacto</h1>
 
           <p class="mb-1">
@@ -53,7 +53,7 @@
 
           <p class="mb-1">
             <i class="fas fa-envelope mr-1"></i>
-            <a class="text-footer" href="mailto:despacho@vmyasc.com.mx">
+            <a class="text-footer" href="contacto.php#contacts">
               despacho@vmyasc.com.mx
             </a>
           </p>
@@ -69,7 +69,7 @@
 
         </div>
 
-        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center mt-4 mb-2 pt-4">
+        <div class="col-12 col-sm-12 col-md-3 text-md-center text-sm-center mt-4 mb-2 pt-4 text-extrasm">
           <a class="" href="index.php">
             <h1 class=" h1-footer">V&Iacute;CTOR MONTES Y ASOCIADOS S.C.</h1>
             <h2 class="h2-footer footer-logo-base">Despacho Legal</h2>
