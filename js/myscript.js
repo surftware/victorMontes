@@ -17,12 +17,11 @@ $(document).ready(function () {
         }
     })
 
-    function initAnimation () {
-  
-        new WOW().init();
-      
-      }
+    function initAnimation() {
 
+        new WOW().init();
+
+    }
 
     $('.ir-arriba').click(function () {
         $('body, html').animate({
@@ -39,6 +38,7 @@ $(document).ready(function () {
     });
 
 });
+
 
 
 $("#post").click(function () {
