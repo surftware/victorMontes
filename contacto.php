@@ -34,7 +34,7 @@
       <div class="row justify-content-center">
         <div class="col-sm-12 col-md-12">
           <h1 class="h1-section text-center ">Formulario de Contacto</h1>
-          <p class="text-center">Env&iacute;anos un mensaje, contestaremos a la brevedad.</p>
+          <p class="text-center">Env&iacute;enos un mensaje o solicite una cita, le contestaremos a la brevedad.</p>
         </div>
       </div>
 
@@ -60,7 +60,7 @@
                   id="correo" maxlength="100" require>
               </div>
               <div class="col-sm-12 col-md-12">
-                <textarea class="form_textarea" placeholder="Escr&iacute;banos aqui su mensaje" required=""
+                <textarea class="form_textarea" placeholder="Escr&iacute;ba su mensaje y/o solicite una cita." required=""
                   name="mensaje" id="mensaje" maxlength="100" require></textarea>
 
 

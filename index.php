@@ -1,7 +1,7 @@
 <!--
 //  Surftware (colaboradores): 
 
-//  -Juan Miguel Días Teran.
+//  -Juan Miguel Díaz Terán.
 //  -José Armando Moreno Tolentino.
 -->
 <!DOCTYPE html>
@@ -93,7 +93,7 @@
 
         <div class="col-sm-12 col-md-5 imagen_r ml-3">
 
-        
+
 
           <img src="img/abogados-cdmx.png" class="imagen_m img-fluid text-extrasm">
           <div class="transparenciaImg d-block mx-auto">
@@ -271,16 +271,15 @@
       </div>
     </div>
   </div>
-<!-- SCROLL TO TOP -->
-<div class="scrollup">
-  <a href="#"><i class="fas fa-angle-up"></i></a>
-</div>
-<!-- SCROLL TO TOP ENDS -->
+
+  
+
 
   <?php
   include_once ("includes/footer.php");
-  include_once ("includes/js.php");  
+  include_once ("includes/js.php");
   ?>
+
 
 </body>
 
