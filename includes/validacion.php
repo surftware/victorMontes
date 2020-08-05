@@ -11,7 +11,6 @@ if (!empty($_POST)) {
     //$archivo = $_FILES['adjunto'];
     $recaptchaPrueba    = '22222222';
         if (!empty($_POST['captcha'])) {
-            
         //if (!empty($recaptchaPrueba)) {
             if ($nombre == "" || $telefono== "" || $correo == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
@@ -80,7 +79,7 @@ else
 function enviarMail($nombre,$telefono,$correo,$texto){
               
     $remitente = $correo;
-    $destinatario = 'vicmont@prodigy.net.mx'; // en esta línea va el mail del destinatario.
+    $destinatario = 'vicmont@prodigy.net.mx,despacho@vmyasc.com.mx '; // en esta línea va el mail del destinatario.
     $asunto = 'E-mail enviado desde la página web vmyasc.com.mx. Contestar a la brevedad.'; // acá se puede modificar el asunto del mail
     
       $cuerpo =  "Nombre:   " . $nombre    . "\r\n"; 

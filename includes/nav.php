@@ -2,7 +2,7 @@
     <a class="navbar-brand" href="index.php">
         <div class="row ml-5 pl-5 margenRespLogo">
             <div class="col-md-2">
-                <img src="img/logo.png" class="d-block mx-auto logo" alt="logo">
+                <img src="img/logoB.png" class="d-block mx-auto logo" alt="logo">
             </div>
             <div class="col-md-10">
                 <p class="p-logo">VICTOR MONTES Y ASOCIADOS S.C.</p>
