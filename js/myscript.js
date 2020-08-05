@@ -17,11 +17,11 @@ $(document).ready(function () {
         }
     })
 
-    function initAnimation() {
+    // function initAnimation() {
 
-        new WOW().init();
+    //     new WOW().init();
 
-    }
+    // }
 
     $('.ir-arriba').click(function () {
         $('body, html').animate({
