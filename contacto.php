@@ -112,15 +112,6 @@
   </div>
   <!-- Termina Mapa  -->
 
-   <!-- SCROLL TO TOP -->
-   <div class="scrollup">
-        <a href="#"><i class="fa fa-chevron-up"></i></a>
-    </div>
-   
-    <!-- SCROLL TO TOP ENDS -->
-
-
-
 
   <?php
   include_once ("includes/footer.php");

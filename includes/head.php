@@ -7,9 +7,9 @@ diseño y desarrollo páginas web y sistemas computacinales.
 
 Bajo licencia:
 
-Versión 0.1
+Versión 1.0
 
-Ultima Actualización: Noviembre 2019
+Ultima Actualización: Agosto 2020
 -->
 
 <head>

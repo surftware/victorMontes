@@ -4,6 +4,8 @@ $(document).ready(function () {
         loop: true,
         margin: 10,
         nav: true,
+        autoplay: true,
+        autoHeight: true,
         responsive: {
             0: {
                 items: 1
@@ -15,30 +17,39 @@ $(document).ready(function () {
                 items: 5
             }
         }
-    })
 
-    function initAnimation () {
-  
-        new WOW().init();
-      
-      }
-
-
-    $('.ir-arriba').click(function () {
-        $('body, html').animate({
-            scrollTop: '0px'
-        }, 300);
     });
-
+    
+    $('.up').click(function () {
+        $('html, body').animate({
+            scrollTop: 0
+        }, 'slow');
+        return false;
+    });
+    
     $(window).scroll(function () {
         if ($(this).scrollTop() > 0) {
-            $('.ir-arriba').slideDown(300);
+            $('.up').slideDown(300);
         } else {
-            $('.ir-arriba').slideUp(300);
+            $('.up').slideUp(300);
         }
     });
-
+   
 });
+
+/* ---------------------------------------------------------------------- */
+/*  WOW Animation
+/* ---------------------------------------------------------------------- */
+
+
+function initAnimation() {
+
+    new WOW().init();
+
+} // initAnimation
+
+
+
 
 
 $("#post").click(function () {

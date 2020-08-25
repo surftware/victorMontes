@@ -1,4 +1,11 @@
-<span class="ir-arriba fas fa-angle-up"></span>
+
+<!-- SCROLL TO TOP -->
+<div class="up" >
+  <a class="up" href="#"><i class="fa fa-chevron-up d-block mx-auto"></i></a>
+</div>
+<!-- SCROLL TO TOP ENDS -->
+
+
 <footer>
   <section>
     <div class="container">

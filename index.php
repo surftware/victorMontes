@@ -235,24 +235,24 @@
           <p class="text-center"> El conocimiento asesoramiento y apoyo de miebros expertos para enriquecer el proyecto
           </p>
           <div class="owl-carousel owl-theme">
-            <div class="item"><img src="img/ab01.png">
+            <div class="item"><img src="img/asociado-victormontes1.jpeg">
               <div class="transparenciaImg d-block mx-auto">
-                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+                <p class="captionImg my-0">Lic. Alejandra Bernal</p>
               </div>
             </div>
             <div class="item"><img src="img/ab02.png">
               <div class="transparenciaImg d-block mx-auto">
-                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+                <p class="captionImg my-0">Lic. Viridiana Aguijosa</p>
               </div>
             </div>
             <div class="item"><img src="img/ab03.png">
               <div class="transparenciaImg d-block mx-auto">
-                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+                <p class="captionImg my-0">Lic. Karla Guzmán</p>
               </div>
             </div>
             <div class="item"><img src="img/ab04.png">
               <div class="transparenciaImg d-block mx-auto">
-                <p class="captionImg my-0">Lic. V&iacute;ctor Montes</p>
+                <p class="captionImg my-0">Paola Salas</p>
               </div>
             </div>
             <div class="item"><img src="img/ab05.png">
