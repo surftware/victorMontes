@@ -111,7 +111,7 @@
 
       <div class="row flexresponsive">
 
-        <div class="col-md-6 col-sm-12 longMax ">
+        <!--<div class="col-md-6 col-sm-12 longMax ">
 
           <div class="row">
             <div class="col-sm-4 col-md-4 align-items-sm-center">
@@ -167,7 +167,7 @@
             </div>
           </div>
 
-        </div>
+        </div>-->
 
         <div class="col-md-6 col-sm-12 longMax ">
 
