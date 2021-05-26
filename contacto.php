@@ -60,8 +60,8 @@
                   id="correo" maxlength="100" require>
               </div>
               <div class="col-sm-12 col-md-12">
-                <textarea class="form_textarea" placeholder="Escr&iacute;ba su mensaje y/o solicite una cita." required=""
-                  name="mensaje" id="mensaje" maxlength="100" require></textarea>
+                <textarea class="form_textarea" placeholder="Escr&iacute;ba su mensaje y/o solicite una cita."
+                  required="" name="mensaje" id="mensaje" maxlength="100" require></textarea>
 
 
 
@@ -94,7 +94,7 @@
         <div class="col-sm-12 col-md-12 col-lg-12 text-center">
           <h1 class="h1-section">Mapa de Ubicaci&oacute;n</h1>
           <p class="mb-0">
-          Atenci&oacute;n personal s&oacute;lo con previa cita.
+            Atenci&oacute;n personal s&oacute;lo con previa cita.
           </p>
           <p>Lunes a Viernes de: 10:00 am a 3:00 pm y 5:00 pm a 8:00 pm</p>
         </div>
@@ -102,10 +102,9 @@
 
       <div class="row text-center">
         <div class="col-sm-12 col-md-12 col-lg-12">
-          <iframe class="border rounded d-block mx-auto"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.553615587871!2d-99.17735778509469!3d19.34516698693408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffe44f731a01%3A0x5eba228778ee32ab!2sInterior%204%2C%20Kappa%2011%2C%20Romero%20de%20Terreros%2C%2004310%20Ciudad%20de%20M%C3%A9xico%2C%20CDMX!5e0!3m2!1ses-419!2smx!4v1576175341286!5m2!1ses-419!2smx"
-            width="1000" height="400" frameborder="0" style="border:0;" allowfullscreen="">
-          </iframe>
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3764.5515441373573!2d-99.17741808509469!3d19.345256786934037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ffe44fa50a7b%3A0xc5ffe27ac0a66b36!2sV%C3%ADctor%20Montes%20y%20Asociados!5e0!3m2!1ses-419!2smx!4v1622060066707!5m2!1ses-419!2smx"
+            width="1000" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
       </div>
     </div>
